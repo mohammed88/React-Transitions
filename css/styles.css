@@ -54,7 +54,7 @@ body {
 
 .curr.slidein-leave {
 	opacity: 0.8;
-	-webkit-animation: slidein-leave .35s;
+	-webkit-animation: slidein-leave .33s;
 }
 
 .prev.slidein-leave, .prev.slidein-enter {opacity: 0}
