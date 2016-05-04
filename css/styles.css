@@ -4,7 +4,6 @@ body {
 	line-height: 1.4em;
 	color: #4d4d4d;
 	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
 	font-weight: 300;
 }
 
@@ -55,7 +54,7 @@ body {
 
 .curr.slidein-leave {
 	opacity: 0.8;
-	-webkit-animation: slidein-leave .3s;
+	-webkit-animation: slidein-leave .35s;
 }
 
 .prev.slidein-leave, .prev.slidein-enter {opacity: 0}
